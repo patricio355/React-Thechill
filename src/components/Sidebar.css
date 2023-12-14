@@ -1,0 +1,6 @@
+.MuiDrawer-paper {
+    background-color: rgb(255, 255, 255) !important; /* Cambia el color de fondo del sidebar */
+    color: rgb(0, 0, 0) !important; /* Cambia el color del texto del sidebar */
+  }
+  
+  

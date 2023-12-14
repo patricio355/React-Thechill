@@ -1,0 +1,21 @@
+/* .header {
+   
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 0, 0);
+  } */
+  .header {
+    background-color: #002b5b;
+    color: rgb(252, 252, 252);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 0, 0);
+  }
+  
+  .header h1 {
+    margin: 0;
+    flex-grow: 1; /* Permite que el espacio restante sea ocupado por "THE CHILL." */
+  }
